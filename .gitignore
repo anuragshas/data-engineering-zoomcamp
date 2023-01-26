@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.db
+*.gz
+*.csv
+data_pgadmin/
+ny_taxi_postgres_data
